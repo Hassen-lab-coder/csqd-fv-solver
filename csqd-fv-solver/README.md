@@ -56,7 +56,7 @@ Edit `params/params_benchmark.m` to change materials or geometry.
 ## Validation
 
 Output of `run_tests` (MATLAB R2019b, h = 0.10 nm unless stated). A one-page
-report with the same content is in [`docs/validation_report.tex`](docs/).
+report with the same content is in [`docs/validation_report.md`](docs/).
 
 | test | criterion | result |
 |---|---|---|
