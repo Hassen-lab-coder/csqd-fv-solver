@@ -51,7 +51,7 @@ Reference: R. G. Toscano-Negrette et al., *Nanomaterials* **13**, 550 (2023) —
 ZnS/CdS/ZnS dot, R₁ = 4 nm, R₂ = 11 nm, R₃ = 12 nm, abrupt interfaces,
 on-centre donor.
 
-![Energy levels versus magnetic field](../Figures/benchmark_E_vs_B.png)
+![Energy levels versus magnetic field](../FIGURES/benchmark_E_vs_B.png)
 
 | Quantity (m = 0) | B = 0 | B = 15 T | B = 30 T |
 |---|---|---|---|
