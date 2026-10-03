@@ -7,7 +7,7 @@ fields. MATLAB R2019 or later, no toolboxes.
 
 **Author:** Hassen Dakhlaoui — [Google Scholar](https://scholar.google.com/citations?hl=en&user=c7OAAAAAJ) — open to collaboration and to questions by email.
 
-![benchmark](figures/benchmark_E_vs_B.png)
+![benchmark](FIGURES/benchmark_E_vs_B.png)
 
 *Lowest m = 0, ±1, ±2 levels of a ZnS/CdS/ZnS dot versus magnetic field,
 (a) without and (b) with an on-centre donor. Reproduces Figs. 3–4 of
