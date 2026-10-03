@@ -1,7 +1,7 @@
 # Validation report — csqd-fv-solver
 
 **Author:** Hassen Dakhlaoui · **Date:** [fill in] · **Code:** [repository link]
-
+![Energy levels versus magnetic field](../csqd-fv-solver/FIGURES/benchmark_E_vs_B.png)
 ## 1. Scope
 
 Lowest conduction-band states of a spherical core/shell/shell quantum dot in the
